@@ -1,2 +1,2 @@
 # MyDemos
-Some demos。
+Some demos.
